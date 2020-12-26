@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to My Profile :octocat:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yoesuv)](https://twitter.com/yoesuv)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logo=plane&logoColor=white)](mailto:yoesuv@hotmail.co.id)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/yoesuv)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logoColor=white&logo=microsoft-outlook)](mailto:yoesuv@hotmail.co.id)
 
 - 🔭 I’m currently working on Mobile Development
 - 🌱 I’m currently learning Android Kotlin & Flutter Dart
