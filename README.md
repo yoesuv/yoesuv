@@ -12,3 +12,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoesuv&count_private=true&show_icons=true&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoesuv&count_private=true&show_icons=true&hide_border=true" />
 </p>
+  
+### Personal Research ###
+| Android | Flutter |
+| --- | --- |
+| [Room DB](https://github.com/yoesuv/android-room-example)  |  |
+| [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) |  |
