@@ -16,6 +16,6 @@
 ### Personal Research ###
 | Android | Flutter |
 | --- | --- |
-| [Room DB](https://github.com/yoesuv/android-room-example)  |  |
+| [Room DB](https://github.com/yoesuv/android-room-example)  | [Login Form (BLOC Library)](https://github.com/yoesuv/Login-Bloc-Library) |
 | [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) |  |
 | [File Picker](https://github.com/yoesuv/android-file-picker-example) | |
