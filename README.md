@@ -12,11 +12,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoesuv&count_private=true&show_icons=true&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoesuv&count_private=true&show_icons=true&hide_border=true" />
 </p>
-  
+
 ### Personal Research ###
 | Android | Flutter |
 | --- | --- |
 | [Room DB](https://github.com/yoesuv/android-room-example)  | [Login Form (BLOC Library)](https://github.com/yoesuv/Login-Bloc-Library) |
-| [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) |  |
+| [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) | [Local DB](https://github.com/yoesuv/Flutter-Local-DB) |
 | [File Picker](https://github.com/yoesuv/android-file-picker-example) | |
 | [Form Live Data Binding](https://github.com/yoesuv/Form-Live-Data-Binding) | |
