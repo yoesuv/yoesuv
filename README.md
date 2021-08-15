@@ -4,7 +4,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logoColor=white&logo=microsoft-outlook)](mailto:yoesuv@hotmail.co.id)
 
 - 🔭 I’m currently working on Mobile Development
-- 🌱 I’m currently learning Android Kotlin & Flutter Dart
+- 🌱 I’m currently learning Android Kotlin, Flutter Dart & Swift iOS
 - 📫 How to reach me: [Telegram](https://t.me/yoesuv)  
 
 </p>
@@ -13,10 +13,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoesuv&count_private=true&show_icons=true&hide_border=true" />
 </p>
 
-### Personal Research ###
-| Android | Flutter |
-| --- | --- |
-| [Room DB](https://github.com/yoesuv/android-room-example)  | [Login Form (BLOC Library)](https://github.com/yoesuv/Login-Bloc-Library) |
-| [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) | [Local DB](https://github.com/yoesuv/Flutter-Local-DB) |
-| [File Picker](https://github.com/yoesuv/android-file-picker-example) | |
-| [Form Live Data Binding](https://github.com/yoesuv/Form-Live-Data-Binding) | |
+### Personal Research :books: ###
+| Android | Flutter | iOS |
+| --- | --- | --- |
+| [Room DB](https://github.com/yoesuv/android-room-example)  | [Login Form (BLOC Library)](https://github.com/yoesuv/Login-Bloc-Library) | [MVVM Networking](https://github.com/yoesuv/iOS-MVVM-Networking) |
+| [MVVM Networking](https://github.com/yoesuv/android-kotlin-mvvm-networking) | [Local DB](https://github.com/yoesuv/Flutter-Local-DB) | [Local DB](https://github.com/yoesuv/iOS-Local-DB) |
+| [File Picker](https://github.com/yoesuv/android-file-picker-example) | | |
+| [Form Live Data Binding](https://github.com/yoesuv/Form-Live-Data-Binding) | | |
