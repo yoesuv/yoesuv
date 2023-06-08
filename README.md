@@ -24,4 +24,4 @@
 | [Form Validation](https://github.com/yoesuv/Form-Live-Data-Binding) | [Localization](https://github.com/yoesuv/Flutter-App-Language) | [UIKit Playground](https://github.com/yoesuv/UIKit-Playground) | [Picker & Permission](https://github.com/yoesuv/RN-Picker-Permission) |
 | [Background Service](https://github.com/yoesuv/Android-Background-Service) | [Environment Build](https://github.com/yoesuv/Flutter-Build-Environment) | - | [Local DB](https://github.com/yoesuv/RN-Local-DB) |
 | [Load More Paging](https://github.com/yoesuv/Android-Load-More-Paging) | [Picker & Permission](https://github.com/yoesuv/Flutter-Picker-Permission) | - | [Localization](https://github.com/yoesuv/RN-App-Language) |
-| - | [GetX Playground](https://github.com/yoesuv/GetX-Playground) | - | [Environment Build](https://github.com/yoesuv/RN-Build-Environment) |
+| [Localization](https://github.com/yoesuv/Android-App-Language) | [GetX Playground](https://github.com/yoesuv/GetX-Playground) | - | [Environment Build](https://github.com/yoesuv/RN-Build-Environment) |
