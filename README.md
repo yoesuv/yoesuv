@@ -2,7 +2,7 @@
 
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=for-the-badge&logoColor=white&logo=microsoft-outlook)](mailto:yoesuv@hotmail.co.id)
 [![Google Play Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=BOYO)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/yoesuv)
+[![Twitter Badge](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/yoesuv)
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/63565430-yusuf-saifudin)
 
 - 🔭 I’m currently working on Mobile Development
@@ -27,3 +27,8 @@
 | [Localization](https://github.com/yoesuv/Android-App-Language) | [GetX Playground](https://github.com/yoesuv/GetX-Playground) | - | [Environment Build](https://github.com/yoesuv/RN-Build-Environment) |
 | [Switch Theme](https://github.com/yoesuv/Android-Switch-Theme) | [Switch Theme](https://github.com/yoesuv/Flutter-Switch-Theme) | - | - |
 | - | [Riverpod Playground](https://github.com/yoesuv/Riverpod-Playground) | - | - | 
+
+
+| Front End |
+| :---: |
+| [Next js + Chakra UI](https://github.com/yoesuv/Next-Chakra) |
