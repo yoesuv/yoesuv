@@ -31,4 +31,5 @@
 
 | Front End |
 | :---: |
+| [Vite + Ant Design](https://github.com/yoesuv/Vite-Spec-Kit) |
 | [Next js + Chakra UI](https://github.com/yoesuv/Next-Chakra) |
