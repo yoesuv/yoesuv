@@ -44,6 +44,7 @@
 | Back End |
 | :---: |
 | [Note Spring Boot](https://github.com/yoesuv/My-Note-SB) |
+| [Note Laravel](https://github.com/yoesuv/My-Note-Laravel) |
 
 </td>
 </tr>
