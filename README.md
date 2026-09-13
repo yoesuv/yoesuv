@@ -37,6 +37,7 @@
 | :---: |
 | [Vite + Ant Design](https://github.com/yoesuv/Vite-Spec-Kit) |
 | [Next js + Chakra UI](https://github.com/yoesuv/Next-Chakra) |
+| [Form Validation](https://github.com/yoesuv/Vite-Form-Validation) |
 
 </td>
 <td valign="top" style="border: none;">
